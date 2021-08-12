@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import time
 from PIL import Image, ImageEnhance
-import cv2
+from cv2 import *
 
 
 
